@@ -13,7 +13,6 @@ Title: Passages from the Life of a Philosopher
 Author: Charles Babbage
 
 Release Date: July 18, 2018 [EBook #57532]
-[Last updated: November 9, 2020]
 
 Language: English
 
@@ -15231,7 +15230,7 @@ passing stranger.
 
      [62] Turin.
 
-But the owner of the villa was deeply acquainted with human nature. He
+But the owner of the villa was deeply acquainted with, human nature. He
 knew in that sultry climate that the liquid would be more valued from
 its scarcity, and from the difficulty of acquiring it. He therefore,
 to enhance the value of the gift, wisely arranged the pump, so that
@@ -15435,7 +15434,7 @@ united.
 A stream of melted bronze is now allowed to run out from the furnace
 through the channel between the contiguous ends which it is proposed
 to unite. The first effect of this is to heat the ends of the two
-fragments. After the stream of melted metal has continued some time, the
+fragments. After the stream of melted metal has continued sometime, the
 ends of those fragments themselves begin to melt. When a small quantity
 of each end is completely melted, the further flow of the melted metal
 is stopped, and as soon as the pool of melted metal connects, the two
